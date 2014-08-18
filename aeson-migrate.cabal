@@ -35,3 +35,4 @@ test-suite test
     , aeson-migrate
     , aeson
     , text
+    , unordered-containers
